@@ -1,6 +1,7 @@
 import { Inter, Poppins } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import VisitNotifier from "@/components/VisitNotifier";
 import { site } from "@/lib/site";
 import "./globals.css";
 
@@ -42,6 +43,7 @@ export default function RootLayout({ children }) {
           {children}
         </main>
         <Footer />
+        <VisitNotifier />
       </body>
     </html>
   );

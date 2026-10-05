@@ -104,7 +104,19 @@ export default function PrivacyPage() {
           personally identifiable. You can opt out using Google&apos;s Analytics opt-out browser add-on.
         </p>
 
-        <h2>9. Agreement and modification</h2>
+        <h2>9. Demo preview notifications</h2>
+        <p>
+          While this site is shared privately as a demo preview, opening it sends a one-time
+          notification to the people sharing the demo so they know it was viewed. That notification
+          includes your approximate (city-level) location, internet provider, device and browser
+          type, and the date and time — derived in part from your IP address. We use it only to see
+          when the preview has been opened, and not for advertising. You can stop these notifications
+          from your browser at any time using the &ldquo;Don&rsquo;t report my visits&rdquo; option in the on-screen
+          notice. These notifications are a feature of the private demo only and are not part of the
+          public, published website.
+        </p>
+
+        <h2>10. Agreement and modification</h2>
         <p>
           By using the Web Site you consent to the collection and use of information as explained in this Notice. We may
           revise this Notice at any time by updating this page, and changes take effect immediately. If you have questions
